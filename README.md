@@ -1,2 +1,13 @@
-# dio-notebooklm-financas-pessoais
+# Projeto DIO - Finanças Pessoais
 Repositório contendo o resultado do desafio de projeto DIO, onde foi utilizado o NotebookLM para processar documentos e criar um guia de estudos dinâmicos sobre finanças pessoais.
+
+# Título da Fonte
+Finanças pessoais para iniciantes.pdf
+Guia de Finanças Pessoais - Sebrae.pdf
+O IMPACTO DO PLANEJAMENTO FINANCEIRO NA QUALIDADE DE VIDA FATORES BENEFÍCIOS E RECOMENDAÇÕES.pdf
+
+# Objetivos da Pesquisa sobre Planejamento Financeiro e Qualidade de Vida
+Investigar o impacto do planejamento financeiro na qualidade de vida.
+Identificar benefícios e fatores que influenciam a gestão das finanças.
+Propor recomendações úteis para aprimorar o controle financeiro dos cidadãos.
+
