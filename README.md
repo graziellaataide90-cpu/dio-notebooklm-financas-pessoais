@@ -1,5 +1,5 @@
 # Projeto DIO - Finanças Pessoais
-Repositório contendo o resultado do desafio de projeto DIO, onde foi utilizado o NotebookLM para processar documentos e criar um guia de estudos dinâmicos sobre finanças pessoais.
+Repositório contendo o resultado do desafio de projeto DIO (Bootcamp Bradesco), onde foi utilizado o NotebookLM para processar documentos e criar um guia de estudos dinâmicos sobre finanças pessoais.
 
 # Fontes Utilizadas
 - Finanças pessoais para iniciantes.pdf
